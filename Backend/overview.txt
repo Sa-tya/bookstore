@@ -1,0 +1,32 @@
+api
+    /subject
+        /add
+        /update
+        /delete
+        /read
+    /company
+        /add
+        /update
+        /delete
+        /read
+    /books
+        /add
+        /update
+        /delete
+        /read
+    /Booklist (Name, gmail, c.no, Address, session , List(nur to 8))
+        /add
+        /update
+        /delete
+        /read
+    /return
+        /add
+        /update
+        /delete
+        /read
+    /billing
+        /add
+        /update
+        /delete
+        /read
+        
